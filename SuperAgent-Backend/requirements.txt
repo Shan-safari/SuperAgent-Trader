@@ -2,6 +2,5 @@ fastapi
 uvicorn
 python-dotenv
 requests
-python-binance
 web3
 eth-account
